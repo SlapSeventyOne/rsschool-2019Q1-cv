@@ -1,13 +1,9 @@
-1. Имя, фамилия (реальные)
-2. Контакты (желательно несколько)
-3. Summary (цель, пожелания, раскрыть, что важно, что хочется и почему. 
-Некий вариант самопрезентации. Когда опыта минимум, джун продает свой потенциал, 
-свое желание и способность быстро учиться. Не занимать позицию, что он придет, 
-и все кинутся его учить. Но обратное – у джуна время все брать, отовсюду, всегда и т.д.).
-4. Skills (например: языки программирования, фреймворки, методологии, системы контроля версий, тулы...)
-5. Примеры кода (по возможности СВЕЖИЕ)
-6. Опыт (Junior-у имеет смысл указать весь опыт: тестовые задания, проекты с курсов,
-фрилансовые проекты – все, где он применял вышеупомянутые скилы. 
-Круто, если это будет со ссылками на код)
-7. Образование (в т.ч. курсы, семинары, лекции, онлайн-обучение)
-8. Уровень английского (тут стоит указать, какая именно практика была, как долго и т.д.)
+1. Mikalai Batura
+2. Email: batura@tutamail.com 
+and another Email: exedystyle@tutamail.com
+3. I want to be frontend-dev because i like to follow technical progress and i want to be part of it.
+4. HTML, CSS, JavaScript, Git, Webpack, npm, OOP, BEM.
+5. All of my code examples yor can see [here](http://github.com/Exedystyle)
+6. I haven't any commercial development experience
+7. BSUIR student, took a part in RSS2018q3 till 4 stage, passed HTMLAcademy frontend course.  
+8. In my opinion i think that i have B1 level. My first foreign language at school was German. I have started to learn English since 2016 year. At first i was learning at group courses during a year, nowadays i learn English with a personal tutor.
