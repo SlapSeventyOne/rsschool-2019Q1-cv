@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+
+body{
+    background: lightgray;
+}
+
+.wrapper{
+    width: 1000px;
+    margin: 0 auto;
+    border: 1px solid red;
+
+}
+
+header{
+    height: 300px;
+}
+
+header .wrapper{
+    margin-top: 50px;
+}
+
+main{
+    height: 500px;
+}
+
+main .wrapper{
+    margin-top: 50px;
+}
+
+footer{
+    height: 300px;
+}
+
+footer .wrapper{
+    margin-top: 50px;
+}
+
+
+.header__person{
+
+}
