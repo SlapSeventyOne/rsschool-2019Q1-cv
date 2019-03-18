@@ -1,5 +1,4 @@
 *{
-    margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Lato', sans-serif;
@@ -9,6 +8,7 @@
 }
 
 body{
+    margin: 50px auto;
     background: lightgray;
 }
 
@@ -17,7 +17,7 @@ h2{
 }
 
 .wrapper{
-    width: 1000px;
+    max-width: 1000px;
     margin: 0 auto;
     padding: 20px 25px;
     background: white;
@@ -28,7 +28,6 @@ h2{
 
 
 .header__wrapper{
-    margin-top: 50px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -39,6 +38,7 @@ h2{
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
 }
 
 .header__info__img{
@@ -53,6 +53,19 @@ h2{
     align-self: center;
 }
 
+.skills__table{
+    margin: 0 auto;
+    width: 300px;
+    text-align: center;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+
+}
+
+
+.skills__levels-link{
+    font-size: 70%;
+}
 
 .footer__wrapper{
     padding: 2px 15px;
@@ -64,15 +77,29 @@ h2{
     align-items: center;
 }
 
-
-.skills__levels-link{
-    font-size: 70%;
-}
-
 .footer__logo{
     width: 50px;
     height: 30px;
 }
 .footer__info{
     color: gray;
+}
+
+a{
+    transition: 0.2s;
+}
+a:hover{
+    color: #7e7e7e;
+    transition: 0.2s;
+}
+
+@media screen and (max-width: 800px) {
+    .header__wrapper{
+        flex-direction: column;
+    }
+    
+    body{
+        text-align: center;
+        margin: 0 auto;
+    }
 }
